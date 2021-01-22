@@ -199,7 +199,7 @@ export const artists = [
       "wikipedia": "http://en.wikipedia.org/wiki/Albrecht_Dürer",
       "paintings": 328
     }
-]
+]   
 
 // 🖌🖼 M V P 🖼🖌 //
 
